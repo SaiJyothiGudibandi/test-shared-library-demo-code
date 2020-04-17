@@ -1,0 +1,1 @@
+@Library('jenkins-basic-shared-library-sample@stable')_
