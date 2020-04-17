@@ -1,3 +1,3 @@
 @Library('jenkins-basic-shared-library-sample@master')_
 
-standardPipeline{}
+standardPipeline release_branch: "dev"
