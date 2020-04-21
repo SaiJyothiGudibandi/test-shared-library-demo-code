@@ -4,3 +4,4 @@ standardPipeline helm_artifactory_url: "https://artifactory-lvn.broadcom.net/art
  helm_chart_name: "dev-my-helm-chart.tgz",
  docker_id: "saijyothi9",
  docker_label: "my-std-img"
+
