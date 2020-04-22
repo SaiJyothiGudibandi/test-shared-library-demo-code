@@ -5,4 +5,4 @@ standardPipeline helm_artifactory_url: "https://artifactory-lvn.broadcom.net/art
  docker_id: "saijyothi9",
  docker_label: "my-std-img",
  docker_tag: "v1.0.0",
- build_config: "resources/values.yaml"
+ helm_docker_img: "saijyothi9/feature-my-std-img-4"
