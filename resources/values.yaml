@@ -15,4 +15,8 @@ image:
   tag: 1.0.7
   pullPolicy: IfNotPresent
 
+<<<<<<< HEAD
 podName: percona-xtradb-cluster-operator
+=======
+podName: percona-xtradb-cluster-operator
+>>>>>>> b6b7ea361f1bc5b18f7a433427acb0d22e4839b6
