@@ -3,7 +3,7 @@
 
 nameOverride: ""
 fullnameOverride: ""
-# test
+
 # If a GKE private cluster define the internal API IP. Obtain it by logging in to your GCP project using gcloud and then typing:
 # gcloud container clusters get-credentials --internal-ip <gke-cluster-name> | grep privateEndpoint | awk '{print $NF}'
 # If not a GKE private cluster, comment out this entry so that the server IP from kubeconfig is used
